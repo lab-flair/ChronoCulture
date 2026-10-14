@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.env
+.env.*
+.DS_Store
+*.log
+
+# Do not commit source survey microdata or model artifacts.
+*.sav
+*.dta
+*.por
+*.zsav
+*.safetensors
+*.bin
+*.gguf
+
+# Generated data / outputs should be separate release artifacts.
+data/*
+!data/README.md
+reproduced/
+outputs/
+results/
+predictions/
+checkpoints/

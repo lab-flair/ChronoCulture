@@ -1,0 +1,409 @@
+dataset,variable,topic
+wvs,A001,Life priorities and wellbeing
+wvs,A002,Life priorities and wellbeing
+wvs,A003,Life priorities and wellbeing
+wvs,A004,Life priorities and wellbeing
+wvs,A005,Life priorities and wellbeing
+wvs,A006,Life priorities and wellbeing
+wvs,A008,Life priorities and wellbeing
+wvs,A062,Democracy and political engagement
+wvs,A170,Life priorities and wellbeing
+wvs,A173,Life priorities and wellbeing
+wvs,C001,Gender roles and family
+wvs,C002,"Trust, identity, and immigration"
+wvs,C006,"Work, economy, and technology"
+wvs,C038,"Work, economy, and technology"
+wvs,C039,"Work, economy, and technology"
+wvs,C041,"Work, economy, and technology"
+wvs,D001_B,"Trust, identity, and immigration"
+wvs,D054,Gender roles and family
+wvs,D057,Gender roles and family
+wvs,D059,Gender roles and family
+wvs,D060,Gender roles and family
+wvs,D078,Gender roles and family
+wvs,E015,"Trust, identity, and immigration"
+wvs,E016,"Trust, identity, and immigration"
+wvs,E018,"Trust, identity, and immigration"
+wvs,E023,Democracy and political engagement
+wvs,E025,Democracy and political engagement
+wvs,E026,Democracy and political engagement
+wvs,E027,Democracy and political engagement
+wvs,E028,Democracy and political engagement
+wvs,E033,Democracy and political engagement
+wvs,E035,"Work, economy, and technology"
+wvs,E036,"Work, economy, and technology"
+wvs,E037,"Work, economy, and technology"
+wvs,E039,"Work, economy, and technology"
+wvs,E040,"Work, economy, and technology"
+wvs,E069_01,Confidence in institutions
+wvs,E069_02,Confidence in institutions
+wvs,E069_04,Confidence in institutions
+wvs,E069_05,Confidence in institutions
+wvs,E069_06,Confidence in institutions
+wvs,E069_07,Confidence in institutions
+wvs,E069_08,Confidence in institutions
+wvs,E069_10,Confidence in institutions
+wvs,E069_11,Confidence in institutions
+wvs,E069_12,Confidence in institutions
+wvs,E069_13,Confidence in institutions
+wvs,E069_14,Confidence in institutions
+wvs,E069_15,Confidence in institutions
+wvs,E069_17,Confidence in institutions
+wvs,E069_18,Confidence in institutions
+wvs,E069_18A,Confidence in institutions
+wvs,E069_19,Confidence in institutions
+wvs,E069_20,Confidence in institutions
+wvs,E069_21,Confidence in institutions
+wvs,E069_22,Confidence in institutions
+wvs,E069_24,Confidence in institutions
+wvs,E069_26,Confidence in institutions
+wvs,E069_29,Confidence in institutions
+wvs,E069_30,Confidence in institutions
+wvs,E069_40,Confidence in institutions
+wvs,E114,Democracy and political engagement
+wvs,E115,Democracy and political engagement
+wvs,E116,Democracy and political engagement
+wvs,E117,Democracy and political engagement
+wvs,E124,"Trust, identity, and immigration"
+wvs,E143,"Trust, identity, and immigration"
+wvs,E217,"Work, economy, and technology"
+wvs,E218,"Work, economy, and technology"
+wvs,E220,"Work, economy, and technology"
+wvs,E224,Democracy and political engagement
+wvs,E225,Democracy and political engagement
+wvs,E226,Democracy and political engagement
+wvs,E227,Democracy and political engagement
+wvs,E228,Democracy and political engagement
+wvs,E229,Democracy and political engagement
+wvs,E233,Democracy and political engagement
+wvs,E234,"Work, economy, and technology"
+wvs,E235,Democracy and political engagement
+wvs,E236,Democracy and political engagement
+wvs,F028,Religion and moral attitudes
+wvs,F034,Religion and moral attitudes
+wvs,F063,Religion and moral attitudes
+wvs,F114A,Religion and moral attitudes
+wvs,F115,Religion and moral attitudes
+wvs,F116,Religion and moral attitudes
+wvs,F117,Religion and moral attitudes
+wvs,F118,Religion and moral attitudes
+wvs,F119,Religion and moral attitudes
+wvs,F120,Religion and moral attitudes
+wvs,F121,Religion and moral attitudes
+wvs,F122,Religion and moral attitudes
+wvs,F123,Religion and moral attitudes
+wvs,F199,Religion and moral attitudes
+wvs,G006,"Trust, identity, and immigration"
+wvs,G007_18_B,"Trust, identity, and immigration"
+wvs,G007_33_B,"Trust, identity, and immigration"
+wvs,G007_34_B,"Trust, identity, and immigration"
+wvs,G007_35_B,"Trust, identity, and immigration"
+wvs,G007_36_B,"Trust, identity, and immigration"
+issp,environment_v1,Environment
+issp,environment_v10,Environment
+issp,environment_v11,Environment
+issp,environment_v12,Environment
+issp,environment_v13,Environment
+issp,environment_v14,Environment
+issp,environment_v15,Environment
+issp,environment_v16,Environment
+issp,environment_v17,Environment
+issp,environment_v18,Environment
+issp,environment_v19,Environment
+issp,environment_v2,Environment
+issp,environment_v20,Environment
+issp,environment_v21,Environment
+issp,environment_v22,Environment
+issp,environment_v23,Environment
+issp,environment_v24,Environment
+issp,environment_v25,Environment
+issp,environment_v26,Environment
+issp,environment_v27,Environment
+issp,environment_v28,Environment
+issp,environment_v35,Environment
+issp,environment_v36,Environment
+issp,environment_v37,Environment
+issp,environment_v38,Environment
+issp,environment_v39,Environment
+issp,environment_v40,Environment
+issp,environment_v41,Environment
+issp,environment_v42,Environment
+issp,environment_v43,Environment
+issp,environment_v46,Environment
+issp,environment_v47,Environment
+issp,environment_v48,Environment
+issp,environment_v49,Environment
+issp,environment_v52,Environment
+issp,environment_v53,Environment
+issp,environment_v54,Environment
+issp,environment_v60,Environment
+issp,environment_v8,Environment
+issp,family_v1,Family
+issp,family_v13,Family
+issp,family_v14,Family
+issp,family_v17,Family
+issp,family_v18,Family
+issp,family_v19,Family
+issp,family_v2,Family
+issp,family_v20,Family
+issp,family_v21,Family
+issp,family_v22,Family
+issp,family_v23,Family
+issp,family_v24,Family
+issp,family_v25,Family
+issp,family_v26,Family
+issp,family_v27,Family
+issp,family_v28,Family
+issp,family_v3,Family
+issp,family_v30,Family
+issp,family_v31,Family
+issp,family_v32,Family
+issp,family_v33,Family
+issp,family_v34,Family
+issp,family_v4,Family
+issp,family_v43,Family
+issp,family_v6,Family
+issp,family_v7,Family
+issp,family_v77,Family
+issp,family_v8,Family
+issp,health_v10,Health
+issp,health_v11,Health
+issp,health_v12,Health
+issp,health_v13,Health
+issp,health_v14,Health
+issp,health_v15,Health
+issp,health_v16,Health
+issp,health_v17,Health
+issp,health_v2,Health
+issp,health_v28,Health
+issp,health_v29,Health
+issp,health_v4,Health
+issp,health_v5,Health
+issp,health_v6,Health
+issp,health_v7,Health
+issp,health_v8,Health
+issp,health_v9,Health
+issp,nationalidentity_v12,National Identity
+issp,nationalidentity_v13,National Identity
+issp,nationalidentity_v14,National Identity
+issp,nationalidentity_v15,National Identity
+issp,nationalidentity_v16,National Identity
+issp,nationalidentity_v17,National Identity
+issp,nationalidentity_v19,National Identity
+issp,nationalidentity_v2,National Identity
+issp,nationalidentity_v20,National Identity
+issp,nationalidentity_v21,National Identity
+issp,nationalidentity_v22,National Identity
+issp,nationalidentity_v23,National Identity
+issp,nationalidentity_v24,National Identity
+issp,nationalidentity_v25,National Identity
+issp,nationalidentity_v26,National Identity
+issp,nationalidentity_v27,National Identity
+issp,nationalidentity_v28,National Identity
+issp,nationalidentity_v29,National Identity
+issp,nationalidentity_v3,National Identity
+issp,nationalidentity_v30,National Identity
+issp,nationalidentity_v31,National Identity
+issp,nationalidentity_v32,National Identity
+issp,nationalidentity_v33,National Identity
+issp,nationalidentity_v34,National Identity
+issp,nationalidentity_v39,National Identity
+issp,nationalidentity_v4,National Identity
+issp,nationalidentity_v40,National Identity
+issp,nationalidentity_v42,National Identity
+issp,nationalidentity_v43,National Identity
+issp,nationalidentity_v44,National Identity
+issp,nationalidentity_v45,National Identity
+issp,nationalidentity_v46,National Identity
+issp,nationalidentity_v47,National Identity
+issp,nationalidentity_v48,National Identity
+issp,nationalidentity_v5,National Identity
+issp,nationalidentity_v52,National Identity
+issp,nationalidentity_v59,National Identity
+issp,nationalidentity_v6,National Identity
+issp,nationalidentity_v7,National Identity
+issp,nationalidentity_v8,National Identity
+issp,religion_v10,Religion
+issp,religion_v17,Religion
+issp,religion_v18,Religion
+issp,religion_v19,Religion
+issp,religion_v2,Religion
+issp,religion_v20,Religion
+issp,religion_v21,Religion
+issp,religion_v23,Religion
+issp,religion_v24,Religion
+issp,religion_v25,Religion
+issp,religion_v26,Religion
+issp,religion_v27,Religion
+issp,religion_v28,Religion
+issp,religion_v29,Religion
+issp,religion_v3,Religion
+issp,religion_v31,Religion
+issp,religion_v32,Religion
+issp,religion_v33,Religion
+issp,religion_v34,Religion
+issp,religion_v35,Religion
+issp,religion_v36,Religion
+issp,religion_v37,Religion
+issp,religion_v4,Religion
+issp,religion_v47,Religion
+issp,religion_v5,Religion
+issp,religion_v50,Religion
+issp,religion_v51,Religion
+issp,religion_v52,Religion
+issp,religion_v53,Religion
+issp,religion_v61,Religion
+issp,religion_v62,Religion
+issp,religion_v64,Religion
+issp,religion_v65,Religion
+issp,religion_v66,Religion
+issp,religion_v68,Religion
+issp,religion_v69,Religion
+issp,religion_v7,Religion
+issp,religion_v70,Religion
+issp,religion_v72,Religion
+issp,religion_v73,Religion
+issp,religion_v74,Religion
+issp,religion_v75,Religion
+issp,religion_v76,Religion
+issp,religion_v77,Religion
+issp,religion_v78,Religion
+issp,religion_v79,Religion
+issp,religion_v8,Religion
+issp,religion_v80,Religion
+issp,religion_v9,Religion
+issp,roleofgovernment_v10,Role of Government
+issp,roleofgovernment_v11,Role of Government
+issp,roleofgovernment_v14,Role of Government
+issp,roleofgovernment_v15,Role of Government
+issp,roleofgovernment_v16,Role of Government
+issp,roleofgovernment_v17,Role of Government
+issp,roleofgovernment_v18,Role of Government
+issp,roleofgovernment_v20,Role of Government
+issp,roleofgovernment_v21,Role of Government
+issp,roleofgovernment_v22,Role of Government
+issp,roleofgovernment_v24,Role of Government
+issp,roleofgovernment_v26,Role of Government
+issp,roleofgovernment_v27,Role of Government
+issp,roleofgovernment_v28,Role of Government
+issp,roleofgovernment_v29,Role of Government
+issp,roleofgovernment_v30,Role of Government
+issp,roleofgovernment_v31,Role of Government
+issp,roleofgovernment_v32,Role of Government
+issp,roleofgovernment_v33,Role of Government
+issp,roleofgovernment_v34,Role of Government
+issp,roleofgovernment_v35,Role of Government
+issp,roleofgovernment_v36,Role of Government
+issp,roleofgovernment_v37,Role of Government
+issp,roleofgovernment_v38,Role of Government
+issp,roleofgovernment_v39,Role of Government
+issp,roleofgovernment_v40,Role of Government
+issp,roleofgovernment_v41,Role of Government
+issp,roleofgovernment_v42,Role of Government
+issp,roleofgovernment_v44,Role of Government
+issp,roleofgovernment_v45,Role of Government
+issp,roleofgovernment_v46,Role of Government
+issp,roleofgovernment_v50,Role of Government
+issp,roleofgovernment_v51,Role of Government
+issp,roleofgovernment_v52,Role of Government
+issp,roleofgovernment_v53,Role of Government
+issp,roleofgovernment_v54,Role of Government
+issp,roleofgovernment_v55,Role of Government
+issp,roleofgovernment_v56,Role of Government
+issp,roleofgovernment_v57,Role of Government
+issp,roleofgovernment_v58,Role of Government
+issp,roleofgovernment_v59,Role of Government
+issp,roleofgovernment_v61,Role of Government
+issp,roleofgovernment_v62,Role of Government
+issp,roleofgovernment_v63,Role of Government
+issp,roleofgovernment_v64,Role of Government
+issp,roleofgovernment_v65,Role of Government
+issp,roleofgovernment_v66,Role of Government
+issp,roleofgovernment_v67,Role of Government
+issp,roleofgovernment_v68,Role of Government
+issp,roleofgovernment_v69,Role of Government
+issp,roleofgovernment_v70,Role of Government
+issp,roleofgovernment_v71,Role of Government
+issp,roleofgovernment_v72,Role of Government
+issp,roleofgovernment_v73,Role of Government
+issp,roleofgovernment_v74,Role of Government
+issp,roleofgovernment_v75,Role of Government
+issp,roleofgovernment_v76,Role of Government
+issp,roleofgovernment_v77,Role of Government
+issp,roleofgovernment_v78,Role of Government
+issp,roleofgovernment_v9,Role of Government
+issp,socialinequality_v1,Social Inequality
+issp,socialinequality_v10,Social Inequality
+issp,socialinequality_v11,Social Inequality
+issp,socialinequality_v12,Social Inequality
+issp,socialinequality_v13,Social Inequality
+issp,socialinequality_v14,Social Inequality
+issp,socialinequality_v15,Social Inequality
+issp,socialinequality_v16,Social Inequality
+issp,socialinequality_v17,Social Inequality
+issp,socialinequality_v18,Social Inequality
+issp,socialinequality_v19,Social Inequality
+issp,socialinequality_v2,Social Inequality
+issp,socialinequality_v20,Social Inequality
+issp,socialinequality_v21,Social Inequality
+issp,socialinequality_v22,Social Inequality
+issp,socialinequality_v23,Social Inequality
+issp,socialinequality_v24,Social Inequality
+issp,socialinequality_v26,Social Inequality
+issp,socialinequality_v27,Social Inequality
+issp,socialinequality_v28,Social Inequality
+issp,socialinequality_v3,Social Inequality
+issp,socialinequality_v31,Social Inequality
+issp,socialinequality_v32,Social Inequality
+issp,socialinequality_v34,Social Inequality
+issp,socialinequality_v35,Social Inequality
+issp,socialinequality_v36,Social Inequality
+issp,socialinequality_v37,Social Inequality
+issp,socialinequality_v38,Social Inequality
+issp,socialinequality_v39,Social Inequality
+issp,socialinequality_v4,Social Inequality
+issp,socialinequality_v40,Social Inequality
+issp,socialinequality_v41,Social Inequality
+issp,socialinequality_v42,Social Inequality
+issp,socialinequality_v43,Social Inequality
+issp,socialinequality_v44,Social Inequality
+issp,socialinequality_v45,Social Inequality
+issp,socialinequality_v47,Social Inequality
+issp,socialinequality_v48,Social Inequality
+issp,socialinequality_v49,Social Inequality
+issp,socialinequality_v5,Social Inequality
+issp,socialinequality_v50,Social Inequality
+issp,socialinequality_v51,Social Inequality
+issp,socialinequality_v52,Social Inequality
+issp,socialinequality_v53,Social Inequality
+issp,socialinequality_v59,Social Inequality
+issp,socialinequality_v6,Social Inequality
+issp,socialinequality_v61,Social Inequality
+issp,socialinequality_v7,Social Inequality
+issp,socialinequality_v70,Social Inequality
+issp,socialinequality_v8,Social Inequality
+issp,socialinequality_v9,Social Inequality
+issp,workorientations_v10,Work Orientations
+issp,workorientations_v11,Work Orientations
+issp,workorientations_v12,Work Orientations
+issp,workorientations_v13,Work Orientations
+issp,workorientations_v14,Work Orientations
+issp,workorientations_v15,Work Orientations
+issp,workorientations_v16,Work Orientations
+issp,workorientations_v17,Work Orientations
+issp,workorientations_v18,Work Orientations
+issp,workorientations_v36,Work Orientations
+issp,workorientations_v37,Work Orientations
+issp,workorientations_v44,Work Orientations
+issp,workorientations_v45,Work Orientations
+issp,workorientations_v49,Work Orientations
+issp,workorientations_v50,Work Orientations
+issp,workorientations_v51,Work Orientations
+issp,workorientations_v52,Work Orientations
+issp,workorientations_v53,Work Orientations
+issp,workorientations_v6,Work Orientations
+issp,workorientations_v7,Work Orientations
+issp,workorientations_v70,Work Orientations
+issp,workorientations_v71,Work Orientations
+issp,workorientations_v72,Work Orientations
+issp,workorientations_v73,Work Orientations

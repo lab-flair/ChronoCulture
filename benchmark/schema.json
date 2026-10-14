@@ -1,0 +1,108 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ChronoCulture dated benchmark record",
+  "type": "object",
+  "required": [
+    "dataset",
+    "pair_id",
+    "prompt_id",
+    "variable",
+    "country_code_iso3",
+    "country_name",
+    "wave_type",
+    "time_period",
+    "scale_min",
+    "scale_max",
+    "scale_points",
+    "question_text",
+    "valid_options",
+    "response_options",
+    "prompt_text",
+    "gold_distribution",
+    "gold_shift_category",
+    "gold_shift_w1"
+  ],
+  "properties": {
+    "dataset": {
+      "enum": [
+        "wvs",
+        "issp"
+      ]
+    },
+    "pair_id": {
+      "type": "string"
+    },
+    "prompt_id": {
+      "type": "string"
+    },
+    "variable": {
+      "type": "string"
+    },
+    "variable_title": {
+      "type": "string"
+    },
+    "country_code_iso3": {
+      "type": "string",
+      "minLength": 3,
+      "maxLength": 3
+    },
+    "country_name": {
+      "type": "string"
+    },
+    "wave_type": {
+      "enum": [
+        "older",
+        "current"
+      ]
+    },
+    "time_period": {
+      "type": [
+        "string",
+        "integer"
+      ]
+    },
+    "scale_min": {
+      "type": "integer"
+    },
+    "scale_max": {
+      "type": "integer"
+    },
+    "scale_points": {
+      "type": "integer",
+      "minimum": 2
+    },
+    "question_text": {
+      "type": "string"
+    },
+    "valid_options": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 2
+    },
+    "response_options": {
+      "type": "object"
+    },
+    "prompt_text": {
+      "type": "string"
+    },
+    "gold_distribution": {
+      "type": "object"
+    },
+    "gold_shift_category": {
+      "enum": [
+        "stable",
+        "moderate",
+        "strong",
+        "very_strong"
+      ]
+    },
+    "gold_shift_w1": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    }
+  },
+  "additionalProperties": true
+}
